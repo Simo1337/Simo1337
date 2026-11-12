@@ -1,16 +1,17 @@
-## Hi there 👋
+### About Me:
 
-<!--
-**Simo1337/Simo1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Simone Bonaccorso, Computer Engineering student at the University of Rome Tor Vergata.**
+**Interested in low-level systems, the Linux kernel and cybersecurity.**
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,arch,bash,git,github,vim" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/TUO-PROFILO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TUA@EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
